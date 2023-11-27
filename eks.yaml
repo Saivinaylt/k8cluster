@@ -11,4 +11,4 @@ managedNodeGroups:
     desiredCapacity: 3
     spot: true
     ssh:
-      publicKeyName: k8resc
+      publicKeyName: last
